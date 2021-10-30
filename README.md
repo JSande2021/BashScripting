@@ -5,13 +5,10 @@
 
 <hr>
 
-**Working With the Terminal - Simple Text File Viewing**
+**Colorized Terminal**
 ![]()
 
 <hr>
-
-**Colorized Terminal**
-![]()
 
 **For Loop to Find Specified Name**
 ![]()
